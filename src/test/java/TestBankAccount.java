@@ -6,7 +6,8 @@ import org.junit.Test;
 import com.jenkins.BankAccount;
 
 
-public class TestBankAccount {
+public class TestBankAccount 
+{
 
 	@Test
 	public void testDebitWithSufficientFunds() 
