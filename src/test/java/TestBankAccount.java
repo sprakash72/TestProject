@@ -1,5 +1,12 @@
+import org.junit.Before;
+import org.junit.Test;
 
 
-public class TestBankAccount {
+public class TestBankAccount 
+{
+
+	public TestBankAccount() 
+	{
+	}
 
 }
